@@ -6,9 +6,13 @@ and AUC values of the LSTM model can be improved.
 
 ## Files 
 The main EDA and model training are performed in the FYP.ipynb file
+
 The main deployment file is the "FYP_Deployment.py" file
+
 ".streamlit" file is the customized theme for the deployment website.
+
 "saved model" file contains the Naive Bayes model used for the Deployment and the Count Vectorizer save file.
+
 "all_model" file contains all the model that has been trained and save into a pickle file.
 
 
