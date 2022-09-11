@@ -24,5 +24,4 @@ The main deployment file is the "FYP_Deployment.py" file
 4. To run deployment open new terminal and redirect the directory using "cd (deployment file path)"
 5. Then, type on the terminal "streamlit run FYP_Deployment_NB.py"
 
-This final year project has been officially published under Young Investors Journals (YIJ). The link is presented below:
-https://lnkd.in/gTNkCV8G
+This final year project has been officially published under Young Investors Journals (YIJ). Link: https://lnkd.in/gTNkCV8G
